@@ -1,0 +1,4 @@
+baseURL = "https://curtain-modelez3.vercel.app"
+languageCode = "en-us"
+title = "Ikea Curtain 2021"
+theme = "hugo-theme-minos"
